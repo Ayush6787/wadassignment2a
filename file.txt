@@ -1,0 +1,4 @@
+name = ayush argonda
+roll no = 3054
+subject = wad
+class = te it
